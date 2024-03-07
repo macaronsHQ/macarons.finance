@@ -26,7 +26,7 @@
 						fill="#fff"
 						stroke-width="0"
 					></path></svg
-				>Fraxtal
+				>Fraxtal.
 			</small></strong
 		>
 	</div>
